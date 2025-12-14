@@ -1,0 +1,33 @@
+/* Streamlit Custom CSS */
+.stApp {
+    background-color: #0E1117;
+    color: #FAFAFA;
+}
+
+.stTextInput > div > div > input {
+    color: #FAFAFA;
+    background-color: #262730;
+}
+
+.stTextArea > div > div > textarea {
+    color: #FAFAFA;
+    background-color: #262730;
+}
+
+.stButton > button {
+    background-color: #FF4B4B;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding: 0.5rem 1rem;
+    font-weight: bold;
+}
+
+.stButton > button:hover {
+    background-color: #FF2B2B;
+    border-color: #FF2B2B;
+}
+
+h1, h2, h3 {
+    color: #FF4B4B !important;
+}

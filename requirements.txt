@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+streamlit
+yt-dlp
+youtube-transcript-api
+google-generativeai
+tavily-python
+requests
+twilio
+gTTS
+selenium
+webdriver-manager
+python-dotenv
+pydantic
+beautifulsoup4
+lxml
